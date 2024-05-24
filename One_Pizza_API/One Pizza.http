@@ -1,6 +1,6 @@
 @One_Pizza_HostAddress = http://localhost:5034
 
-GET {{One_Pizza_HostAddress}}/weatherforecast/
+GET {{One_Pizza_HostAddress}}/PizzaController/
 Accept: application/json
 
 ###

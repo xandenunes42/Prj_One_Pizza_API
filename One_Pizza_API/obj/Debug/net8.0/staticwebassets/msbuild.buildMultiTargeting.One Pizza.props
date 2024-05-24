@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\One Pizza.props" />
+</Project>
